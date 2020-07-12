@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## What I'm doing righ now ?
 🌱 I’m currently learning React and Front End Development </br>
 🔭 I’m currently working on <a href="https://play.google.com/store/apps/details?id=com.nagwa.connect.students">Nagwa Connect App</a> and 
    <a href="https://play.google.com/store/apps/details?id=com.nagwa.studio">Nagwa Studio App</a> </br>
+👨‍🏫 I’m currently giving sessions on CS Fundamentals, Intro to programming and Object-Orinted Programming  </br>
 📫 How to reach me: o.hefny@gmail.com | https://www.linkedin.com/in/ohefny/
