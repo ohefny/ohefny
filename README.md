@@ -8,7 +8,7 @@
   
 ## Repos List By Category
   ### Android
-  <b><a href="https://github.com/ohefny/CleanMovies">Clean Movies</a>:- </b>A remake of movies app to demonstrate the usage of clean arch with mvvm</br>
+  <a href="https://github.com/ohefny/CleanMovies"><b>Clean Movies</b></a>:- A remake of movies app to demonstrate the usage of clean arch with mvvm</br>
   <b><a href="https://github.com/ohefny/FeedMe-Application">FeedMe-Application</a>:- </b>An Application that allow users to follow blogs, magazines, and other sites that matter to them by fetching these sites feeds and allow the user to read them by fetching the full article if needed</br>
   <b><a href="https://github.com/ohefny/StockHawk">StockHawk</a>:- </b>Stock Hawk is an Android application the traces the changes in stockes</br>
   <b><a href="https://github.com/ohefny/Movies-App-Udacity-Nanodegree">Movies App</a>:- </b>Android app that shows a grid of movies sorted by user specific criteria</br>
