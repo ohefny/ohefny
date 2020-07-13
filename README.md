@@ -9,11 +9,12 @@
 ## Repos List By Category
   ### Android
   <a href="https://github.com/ohefny/CleanMovies"><b>Clean Movies</b></a>:- A remake of movies app to demonstrate the usage of clean arch with mvvm</br>
+  <a href="https://github.com/trufla-technology/android-tru-forms"><b>TruForms</b></a>:- Android library for generating forms from JSON schema in the runtime to enable highly customizable apps </br>
   <b><a href="https://github.com/ohefny/FeedMe-Application">FeedMe-Application</a>:- </b>An Application that allow users to follow blogs, magazines, and other sites that matter to them by fetching these sites feeds and allow the user to read them by fetching the full article if needed</br>
   <b><a href="https://github.com/ohefny/StockHawk">StockHawk</a>:- </b>Stock Hawk is an Android application the traces the changes in stockes</br>
   <b><a href="https://github.com/ohefny/Movies-App-Udacity-Nanodegree">Movies App</a>:- </b>Android app that shows a grid of movies sorted by user specific criteria</br>
   <b><a href="https://github.com/ohefny/TaskTracker">Task Tracker</a>:- </b>This is an android app that helps you to track the time you take at each task of any project or any daily routine</br>
-  
+  https://github.com/trufla-technology/android-tru-forms
   ### React & React Native
   <b><a href="https://github.com/ohefny/Would-you-rather-react-app">Would you rather</a>:- </b>A Web app to simulate a would you rather game </br>
   <b><a href="https://github.com/ohefny/Flashcards-Reactnative">Flash Cards App</a>:- </b>Flashcards an app for Android and iOS that lets you create cards for revising and test yourself , and helps you organize these cards inside categories (Decks).
