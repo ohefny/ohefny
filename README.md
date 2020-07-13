@@ -14,7 +14,6 @@
   <b><a href="https://github.com/ohefny/StockHawk">StockHawk</a>:- </b>Stock Hawk is an Android application the traces the changes in stockes</br>
   <b><a href="https://github.com/ohefny/Movies-App-Udacity-Nanodegree">Movies App</a>:- </b>Android app that shows a grid of movies sorted by user specific criteria</br>
   <b><a href="https://github.com/ohefny/TaskTracker">Task Tracker</a>:- </b>This is an android app that helps you to track the time you take at each task of any project or any daily routine</br>
-  https://github.com/trufla-technology/android-tru-forms
   ### React & React Native
   <b><a href="https://github.com/ohefny/Would-you-rather-react-app">Would you rather</a>:- </b>A Web app to simulate a would you rather game </br>
   <b><a href="https://github.com/ohefny/Flashcards-Reactnative">Flash Cards App</a>:- </b>Flashcards an app for Android and iOS that lets you create cards for revising and test yourself , and helps you organize these cards inside categories (Decks).
