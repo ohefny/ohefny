@@ -4,8 +4,8 @@
   <b>Name:</b> Omar El Hefny </br>
   <b>Job Title:</b> Mobile Developer (Android,React Native )</br>
   <b>Current Company: <a href="https://www.nagwa.com/">Nagwa Limited</a> </br>
-  <b>Resume:</b> https://drive.google.com/file/d/1GlFbYhZEFjs7S2OGRbZVie5UehfDmIEn/view </br>
-  
+  <a style="text-align: center;" href="https://drive.google.com/file/d/1GlFbYhZEFjs7S2OGRbZVie5UehfDmIEn/view">View my resume</a> 
+</br>
 ## Repos List By Category
   ### Android
   <a href="https://github.com/ohefny/CleanMovies"><b>Clean Movies</b></a>:- A remake of movies app to demonstrate the usage of clean arch with mvvm</br>
