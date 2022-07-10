@@ -3,8 +3,9 @@
 ## About Me
   <b>Name:</b> Omar El Hefny </br>
   <b>Job Title:</b> Mobile Developer (Android,React Native )</br>
-  <b>Current Company: <a href="https://www.olx.com/">OLX MENA</a> </br> </b>
-  <b>My Resume: <a href="https://drive.google.com/file/d/1GlFbYhZEFjs7S2OGRbZVie5UehfDmIEn/view">PDF</a></b>
+  <b>Current Company:</b> <a href="https://www.olx.com/">OLX MENA</a> </br> 
+  <b>My Resume:</b> <a href="https://drive.google.com/file/d/1GlFbYhZEFjs7S2OGRbZVie5UehfDmIEn/view">PDF</a></br>
+  <b>Hire Me:</b> <a href="mailto:o.hefny@gmail.com">Click here</href>
 </br>
 ## Repos List By Category
   ### Android
@@ -45,7 +46,6 @@ Here are some ideas to get you started:
 -->
 ## What I'm doing righ now ?
 🌱 I’m currently learning React and Front End Development </br>
-🔭 I’m currently working on <a href="https://play.google.com/store/apps/details?id=com.nagwa.connect.students">Nagwa Connect App</a> and 
-   <a href="https://play.google.com/store/apps/details?id=com.nagwa.studio">Nagwa Studio App</a> </br>
+🔭 I’m currently working on <a href="https://play.google.com/store/apps/details?id=com.olxmena.horizontal">OLX MENA</a></br>
 👨‍🏫 I’m currently giving sessions on CS Fundamentals, Intro to programming and Object-Orinted Programming  </br>
 📫 How to reach me: o.hefny@gmail.com | https://www.linkedin.com/in/ohefny/
